@@ -21,3 +21,6 @@ Este proyecto es una aplicación de chat en tiempo real desarrollada con Node.js
 *Socket.IO*: Biblioteca para la comunicación en tiempo real basada en WebSocket.
 
 *Handlebars*: Motor de plantillas para renderizar vistas del lado del servidor.
+
+Deploy en Glitch 
+https://jungle-picayune-sunset.glitch.me
